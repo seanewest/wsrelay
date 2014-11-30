@@ -1,0 +1,11 @@
+{
+  "name": "wsrelay",
+  "version": "1.0.0",
+  "bin": "cmd.js",
+  "description": "Websocket server that handles multiple client connections and relays each message received to every other client.",
+  "main": "relay.js",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^0.5.0"
+  }
+}
