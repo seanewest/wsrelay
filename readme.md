@@ -4,7 +4,7 @@
 
 ## Install
 ```
-npm install -g seanewest/wsrelay
+npm install -g wsrelay
 ```
 
 ## Starting the Server
